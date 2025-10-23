@@ -19,8 +19,8 @@ jobs:
 
     - name: Commitar e enviar animação
       run: |
-        git config --global user.name "Seu Nome"
-        git config --global user.email "seuemail@example.com"
+        git config --global user.name "josue geraldo gomes"
+        git config --global user.email "robsonalexmmfata@gmail.com"
         git add github-contribution-grid-snake.svg
         git commit -m "Atualizar animação da cobrinha"
         git push
