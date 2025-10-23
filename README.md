@@ -90,9 +90,9 @@
         <tr>
             <td> <h1 align="left">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/robsonmmfata/robsonmmfata/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/robsonmmfata/robsonmmfata/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/robsonmmfata/robsonmmfata/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/josuegeraldommfata/josuegeraldommfata/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/josuegeraldommfata/josuegeraldommfata/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/josuegeraldommfata/josuegeraldommfata/output/github-contribution-grid-snake.svg">
 </picture>
 </h1></td>
             <td></td>
