@@ -4,7 +4,7 @@
 </h1>
 💻 Sou um <b>Desenvolvedor Full Stack Freelancer</b> 💼 com <b>13 anos de experiência</b>✨ na criação de soluções web robustas e escaláveis 🚀. Apaixonado por transformar ideias em código funcional 💡 e por aprender continuamente novas tecnologias 🌱.</h1>
 
-🎓 Formado em <b>Análise e Desenvolvimento de Sistemas (ADS)</b> e atualmente cursando <b>Engenharia de Software📚⚙️.</b> </br>
+🎓 Formado em <b>Análise e Desenvolvimento de Sistemas (ADS)📚⚙️.</b> </br>
 </br></br>
 <h2 align="center" >⚡<b>Meu GitStats⚡</b></h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josuegeraldommfata" alt="josuegeraldommfata" /></a> </p>
