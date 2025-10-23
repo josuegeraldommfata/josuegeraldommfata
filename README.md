@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+robson+alex!👋;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Josue+Geraldo+Gomes!👋;" />
 
 </h1>
 💻 Sou um <b>Desenvolvedor Full Stack Freelancer</b> 💼 com <b>13 anos de experiência</b>✨ na criação de soluções web robustas e escaláveis 🚀. Apaixonado por transformar ideias em código funcional 💡 e por aprender continuamente novas tecnologias 🌱.</h1>
@@ -7,13 +7,13 @@
 🎓 Formado em <b>Análise e Desenvolvimento de Sistemas (ADS)</b> e atualmente cursando <b>Engenharia de Software📚⚙️.</b> </br>
 </br></br>
 <h2 align="center" >⚡<b>Meu GitStats⚡</b></h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robsonmmfata" alt="robsonmmfata" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josuegeraldommfata" alt="josuegeraldommfata" /></a> </p>
 </div>
 </h2>  
 </p>
 <div>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=robsonmmfata&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsonmmfata&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=josuegeraldommfata&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegeraldommfata&layout=compact&langs_count=7&theme=dracula"/>
 </div></p>
 
 ### 🚀 <b>Minhas Habilidades Principais:</b>
@@ -39,8 +39,9 @@
 <b>Mobile:</b>
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
 </p>
+
 
 <h3><b>Bancos de Dados:</b></h3>
 <p>
