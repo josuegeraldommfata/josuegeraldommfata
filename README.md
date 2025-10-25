@@ -18,7 +18,7 @@
 </p>
 <div>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=josuegeraldommfata&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegeraldommfata&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuegeraldommfata&layout=compact&langs_count=7&theme=dracula"/>
 </div></p>
 
 ### 🚀 <b>Minhas Habilidades Principais:</b>
