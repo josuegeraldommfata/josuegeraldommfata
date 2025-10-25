@@ -7,7 +7,7 @@
 🎓 Formado em <b>Análise e Desenvolvimento de Sistemas (ADS)📚⚙️.</b> </br>
 </br></br>
 <h2 align="center" >⚡<b>Meu GitStats⚡</b></h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josuegeraldommfata" alt="josuegeraldommfata" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=josuegeraldoata" alt="josuegeraldommfata" /></a> </p>
 </div>
 </h2>  
 </p>
